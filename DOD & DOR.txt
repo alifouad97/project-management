@@ -1,0 +1,18 @@
+DOD 
+
+* unit tests passed
+* Code reviewed
+* Acceptance criteria met
+* Functional tests passed
+* Non-Functional requirements met
+* Product Owner accepts the User Story
+
+DOR
+
+use story has business value
+User story has been
+estimated by development team
+User story is clear and well-defined
+User story is achievable within a sprint
+User story is measurable and testable upon completion
+User story dependencies have been identified
